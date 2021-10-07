@@ -1,5 +1,5 @@
 # de-openchat
-데이터 엔지니어링 채팅방의 대화를 분석해본다.
+데이터 엔지니어링 채팅방(https://open.kakao.com/o/gyjfQRJc)의 대화를 분석해본다.
 
 
 - Step 1. 데이터 전처리 + 대화를 많이 하는 사람 + WordCloud 
